@@ -1,0 +1,46 @@
+(xyz): comman class xyzamong elements
+--> / -> : inside
+$: numbering 1 to n
+xyz*n: number of elements
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+SECTION 1:
+
+./#section1---> ./#header--> 
+
+[.navigation_bar -> ./#business_logo > ./#logo 
+		    ./#middle_div-> ./#div_items > (.items_navbar)*6
+		    ./# joinus_button_nav ]
+
+[.head_flex--> .pic_span->./#image_head, 
+	       .head_sidetext->.side_text >./#heading_head, ./#heading_line_head, ./#heading_info_head 
+	       .buttons_below_text->.button_below*2/#button$_below
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+SECTION 2:
+
+./#section2----->
+
+./#section2a---> ./#left_text_2a--> ./#text_aboutus, ./#text_benifits, ./#text_para,
+, .aboutus__list_2a--> .aboutus_list_item*3, 
+, ./#rightside_boxes_2a.->.box1_2a (boxes_2a)-> (.upper_box2a)/#box_upper1, (.middle_box2a)/#middle_box1, (.lower_box2a)/#lower_box1,
+, ./#box2_2a (boxes_2a)-> (.upper_box2a)/#box_upper2, (.middle_box2a)/#middle_box2, (.lower_box2a)/#lower_box2
+
+/#section2b---> ./#programs_2b, .grid_section_2b--> .left_grididv_2b-> .box_upper1_2b, .box_middle1_2b, .box_lower1_2b,
+, ./#layout_grid_2b--> (.grid_boxinone_2b)*6 #grid_box$-2b-> (.programs_headings_2b), (.programs_info_2b),
+, .right_griddiv_2b--> .box_upper2_2b, .box_lowe2_2b-> .timing_2b, .timing_div_2b-> .timing_inside_2b*3 > (.timimg_days_2b), (.timing_info_2b)
+
+./#section2c----> .section2c_gallery_text/#gallery-> ./#gallery_info_2c,
+, .gallery_grid_2c--> ./#pic_section_2c -> .gallertpic$_2c*9 > (.pic_2c)  
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+SECTION 3:
+
+.section3--> .footer --> .map_section->.map , .copyright->.web_name(footer_details),
+, .policy_span->(policy)*2,.rights_reserved(footer_details)
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+PENDING:
+footer anchor tag link (section 3)

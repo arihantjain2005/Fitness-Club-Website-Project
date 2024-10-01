@@ -1,0 +1,25 @@
+/* FONTS EXTERNAL */
+@font-face {
+  font-family: "Elanor";
+  src: url("/fonts/ElanorFreePersonalUse-ExBdIt.otf");
+}
+@font-face {
+  font-family: "nacky";
+  src: url("/fonts/DxNacky-MediumItalic--Free-personal-use.otf");
+}
+@font-face {
+  font-family: "lactos";
+  src: url("/fonts/DxLactos-Regular-free-personal-use.otf");
+}
+@font-face {
+  font-family: "boska";
+  src: url("/fonts/Boska-BoldItalic.otf");
+}
+@font-face {
+  font-family: "yatra";
+  src: url("/fonts/YatraOne-Regular.ttf");
+}
+@font-face {
+  font-family: "clash";
+  src: url("/fonts/ClashGrotesk-Regular.otf");
+}
